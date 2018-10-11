@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TareaCorta2</string>
+    <string name="largo_del_array">Largo del Array</string>
+    <string name="graficar">Graficar</string>
+    <string name="ingrese_el_largo_del_array">Ingrese el largo del Array</string>
+    <string name="cantidad_de_datos">cantidad de datos</string>
+    <string name="duraci_n">Duración</string>
+</resources>
